@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
@@ -64,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
@@ -146,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
