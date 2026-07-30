@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
