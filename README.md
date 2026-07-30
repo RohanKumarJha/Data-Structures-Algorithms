@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
@@ -155,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
