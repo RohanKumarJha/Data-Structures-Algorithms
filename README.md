@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
