@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
