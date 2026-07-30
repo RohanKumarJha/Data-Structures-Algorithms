@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0067-add-binary) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
@@ -132,4 +133,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
