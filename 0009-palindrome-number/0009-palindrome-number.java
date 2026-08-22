@@ -3,11 +3,18 @@ class Solution {
         if(x < 0) return false;
         int temp = x;
         int result = 0;
-        while(x > 0) {
-            int rem = x%10;
+        while(temp != 0) {
+            int rem = temp % 10;
             result = result*10 + rem;
-            x /= 10;
+            temp /= 10;
         }
-        return (temp == result) ? true : false;
+        return (result == x) ? true : false;
     }
 }
+
+// T.C        S.C
+// O(n^2)   - O(1)
+// O(nlogn) - O(1)
+// O(n)     - O(n)
+// O(n)     - O(1)
+// O(log n) - O(1)
