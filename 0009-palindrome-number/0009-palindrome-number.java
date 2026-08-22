@@ -1,16 +1,17 @@
 class Solution {
     public boolean isPalindrome(int x) {
         if(x < 0) return false;
-        int temp = x;
-        int result = 0;
-        while(temp != 0) {
-            int rem = temp % 10;
-            result = result*10 + rem;
-            temp /= 10;
+        String str = String.valueOf(x);
+        int start=0, end=str.length()-1;
+        while(start < end) {
+            if(str.charAt(start) != str.charAt(end)) return false;
+            start++;
+            end--;
         }
-        return (result == x) ? true : false;
+        return true;
     }
 }
+
 
 // T.C        S.C
 // O(n^2)   - O(1)
