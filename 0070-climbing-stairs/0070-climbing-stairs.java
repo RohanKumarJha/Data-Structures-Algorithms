@@ -1,14 +1,19 @@
 class Solution {
+    public int climb(int n, int[] dp) {
+        if(dp[n] != 0) {
+            return dp[n];
+        }
+        if(n <= 2) {
+            dp[n] = n;
+            return n;
+        }
+        dp[n] = climb(n-1,dp) + climb(n-2,dp);
+        return dp[n];
+    }
+
     public int climbStairs(int n) {
         if(n <= 2) return n;
-        int first = 1;
-        int second = 2;
-        int third = 0;
-        for(int i=2; i<n; i++) {
-            third = first + second;
-            first = second;
-            second = third;
-        }
-        return third;
+        int[] dp = new int[n+1];
+        return climb(n,dp);
     }
 }
