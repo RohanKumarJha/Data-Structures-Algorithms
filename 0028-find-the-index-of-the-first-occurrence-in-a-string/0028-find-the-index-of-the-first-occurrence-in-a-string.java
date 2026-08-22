@@ -1,9 +1,10 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        if(needle.length() > haystack.length()) return -1;
-        int len = needle.length();
-        for(int i=0; i<=haystack.length()-len; i++) {
-            if(haystack.substring(i,i+len).equals(needle)) return i;
+        int len1 = haystack.length();
+        int len2 = needle.length();
+        if(len1 < len2) return -1;
+        for(int i=0; i<=len1-len2; i++) {
+            if(haystack.substring(i,i+len2).equals(needle)) return i;
         }
         return -1;
     }
