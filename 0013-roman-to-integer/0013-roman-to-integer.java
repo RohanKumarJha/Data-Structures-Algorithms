@@ -9,23 +9,20 @@ class Solution {
         map.put('V',5);
         map.put('I',1);
 
-        int result = 0;
-        int pointer = 0;
-        int temp = 0;
-        while(pointer < s.length()) {
-            if(pointer == 0) {
-                temp += map.get(s.charAt(pointer++));
-                continue;
-            }
-            if(map.get(s.charAt(pointer)) > map.get(s.charAt(pointer-1))) {
-                result += (map.get(s.charAt(pointer))-map.get(s.charAt(pointer-1)));
-                temp = 0;
+        int answer = 0;
+        int sum = 0;
+        for(int i=0; i<s.length(); i++) {
+            if(i == 0) {
+                sum = map.get(s.charAt(i));
             } else {
-                result += temp;
-                temp = map.get(s.charAt(pointer));
+                if(map.get(s.charAt(i)) > map.get(s.charAt(i-1))) {
+                    sum = map.get(s.charAt(i)) - sum;
+                } else {
+                    answer += sum;
+                    sum = map.get(s.charAt(i));
+                }
             }
-            pointer++;
         }
-        return result+temp;
+        return sum + answer;
     }
 }
