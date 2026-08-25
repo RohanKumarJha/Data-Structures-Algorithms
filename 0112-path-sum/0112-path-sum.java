@@ -1,17 +1,22 @@
 class Solution {
-    private boolean pathSum(TreeNode root,int targetSum,int sum) {
-        if(root == null) {
-            return false;
-        }
+    private boolean flag = false;
+
+    private void pathSum(TreeNode root, int sum, int targetSum) {
+        if (root == null) return;
         sum += root.val;
-        if(root.left==null && root.right==null) {
-            return sum == targetSum;
+        if (root.left == null && root.right == null) {
+            if (sum == targetSum) {
+                flag = true;
+            }
+            return;
         }
-        return pathSum(root.left,targetSum,sum) || pathSum(root.right,targetSum,sum);
+        pathSum(root.left,sum,targetSum);
+        pathSum(root.right,sum,targetSum);
     }
 
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root == null) return false;
-        return pathSum(root,targetSum,0);
+        pathSum(root,0,targetSum);
+        return flag;
     }
 }
