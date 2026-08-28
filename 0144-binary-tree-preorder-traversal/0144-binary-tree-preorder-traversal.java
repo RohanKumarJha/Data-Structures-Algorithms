@@ -1,12 +1,13 @@
 class Solution {
-    private List<Integer> inOrder(TreeNode root,List<Integer> list) {
+    private List<Integer> preOrder(TreeNode root,List<Integer> list) {
         if(root == null) return list;
         list.add(root.val);
-        inOrder(root.left,list);
-        inOrder(root.right,list);
+        preOrder(root.left,list);
+        preOrder(root.right,list);
         return list;
     }
+
     public List<Integer> preorderTraversal(TreeNode root) {
-        return inOrder(root,new ArrayList<>());
+        return preOrder(root,new ArrayList<>());
     }
 }
