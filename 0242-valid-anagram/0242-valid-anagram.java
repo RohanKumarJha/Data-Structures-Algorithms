@@ -10,10 +10,6 @@ class Solution {
             if(arr[t.charAt(i) - 'a'] < 0) return false;
         }
 
-        for(int i=0; i<26; i++) {
-            if(arr[i] != 0) return false;
-        }
-
         return true;
 
     }
