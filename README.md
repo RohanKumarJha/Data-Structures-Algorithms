@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
