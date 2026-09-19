@@ -2,19 +2,14 @@ class Solution {
     public int missingNumber(int[] nums) {
         int len = nums.length;
 
-        Set<Integer> set = new HashSet<>();
+        int actual_sum = len*(len+1)/2;
+
+        int sum = 0;
         for(int num : nums) {
-            set.add(num);
+            sum += num;
         }
 
-        int pointer=0;
-        while(pointer <= len) {
-            if(!set.contains(pointer)) {
-                return pointer;
-            }
-            pointer++;
-        }
+        return actual_sum - sum;
 
-        return -1;
     }
 }
