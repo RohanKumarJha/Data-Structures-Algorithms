@@ -56,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0011-container-with-most-water) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
