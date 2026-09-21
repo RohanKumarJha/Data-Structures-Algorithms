@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0268-missing-number) |
 ## Bit Manipulation
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
