@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0344-reverse-string) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0098-validate-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
