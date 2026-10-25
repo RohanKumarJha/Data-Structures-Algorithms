@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
+| [0525-contiguous-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0141-linked-list-cycle) |
+| [0525-contiguous-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -220,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
