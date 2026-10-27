@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0070-climbing-stairs) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 ## Manacher
 |  |
 | ------- |
@@ -231,4 +235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
