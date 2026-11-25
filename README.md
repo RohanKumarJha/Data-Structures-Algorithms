@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0015-3sum) |
 | [0198-house-robber](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0198-house-robber) |
+| [0238-product-of-array-except-self](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0739-daily-temperatures) |
 ## Stack
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0015-3sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/RohanKumarJha/Data-Structures-Algorithms/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
