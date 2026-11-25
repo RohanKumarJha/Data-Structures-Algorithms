@@ -1,75 +1,38 @@
-
 class Solution {
+    private void dfs(int[][] grid,int[][] time,int i,int j,int currentTime) {
+        if(i<0 || i>=grid.length || j<0 || j>=grid[0].length || grid[i][j]==0 || currentTime>=time[i][j]) return;
+        time[i][j] = currentTime;
+        dfs(grid,time,i-1,j,currentTime+1);
+        dfs(grid,time,i+1,j,currentTime+1);
+        dfs(grid,time,i,j-1,currentTime+1);
+        dfs(grid,time,i,j+1,currentTime+1);
+    }
 
     public int orangesRotting(int[][] grid) {
+        if(grid==null || grid.length==0) return -1;
+        int row=grid.length, col=grid[0].length;
+        int[][] time = new int[row][col];
+        for(int i=0; i<row; i++) {
+            Arrays.fill(time[i],Integer.MAX_VALUE);
+        }
 
-        int row = grid.length;
-        int col = grid[0].length;
-
-        Queue<int[]> queue = new LinkedList<>();
-
-        int freshOranges = 0;
-
-        // Step 1: Add all initially rotten oranges to the queue
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
-
-                if (grid[i][j] == 2) {
-                    queue.offer(new int[]{i, j});
-                } 
-                else if (grid[i][j] == 1) {
-                    freshOranges++;
+        for(int i=0; i<row; i++) {
+            for(int j=0; j<col; j++) {
+                if(grid[i][j] == 2) {
+                    dfs(grid,time,i,j,0);
                 }
             }
         }
 
-        // Step 2: Direction arrays
-        int[][] directions = {
-            {-1, 0},
-            {1, 0},
-            {0, -1},
-            {0, 1}
-        };
-
-        int minutes = 0;
-
-        // Step 3: Perform multi-source BFS
-        while (!queue.isEmpty() && freshOranges > 0) {
-
-            int size = queue.size();
-
-            // Process all oranges at the current level
-            for (int i = 0; i < size; i++) {
-
-                int[] current = queue.poll();
-
-                int r = current[0];
-                int c = current[1];
-
-                for (int[] dir : directions) {
-
-                    int newRow = r + dir[0];
-                    int newCol = c + dir[1];
-
-                    // Check boundaries and fresh orange
-                    if (newRow >= 0 && newCol >= 0 &&
-                        newRow < row && newCol < col &&
-                        grid[newRow][newCol] == 1) {
-
-                        grid[newRow][newCol] = 2;
-
-                        freshOranges--;
-
-                        queue.offer(new int[]{newRow, newCol});
-                    }
+        int timeRequired = 0;
+        for(int i=0; i<row; i++) {
+            for(int j=0; j<col; j++) {
+                if(grid[i][j] == 1) {
+                    if(time[i][j] == Integer.MAX_VALUE) return -1; 
+                    timeRequired = Math.max(timeRequired,time[i][j]);
                 }
             }
-
-            // One complete BFS level = one minute
-            minutes++;
         }
-
-        // Step 4: Check whether any fresh orange remains
-        return freshOranges == 0 ? minutes : -1;
+        return timeRequired;
     }
 }
